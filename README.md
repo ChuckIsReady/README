@@ -4,7 +4,7 @@ Descripte my repositorys which i usually can't find  in others github XD.
 「」
 ##SmallProductioAfterClass
 「课后小制作」
-{
+
 ---
 	###Look-around :
 		a funny plug-in for web , letting your team introduction become lively and cool ,hah~
@@ -28,18 +28,18 @@ Descripte my repositorys which i usually can't find  in others github XD.
 	###others are the	reference
 	###其余的项目只是作为参考	
 	
-}
+
 ##JQchuck
 ##[Chuck的JQ部件]
-{
+
 	###Closable_Tab :
 		a Closable Tab page base on ACE admin (which base on Bootstrap)
 	###[可关闭标签页]
 	一个基于ACE模板的可关闭标签页
-}
+
 ##Cscwer
 ##「协同使者」
-{
+
 ---
 	###blog :
 		Blog skin for CscwWeb
@@ -58,4 +58,4 @@ Descripte my repositorys which i usually can't find  in others github XD.
 	###「女生节许愿墙」
 		一个有趣的webapp，让女生在女生节里许下神奇的愿望
 
-}
+
