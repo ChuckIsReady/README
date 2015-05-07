@@ -6,7 +6,7 @@ Descripte my repositorys which i usually can't find  in others github XD.
 「课后小制作」
 
 ---
-	###Look-around :
+	### Look-around :
 		a funny plug-in for web , letting your team introduction become lively and cool ,hah~
 	###「四周看看」:
 		自制的一个挺有意思的效果插件 让团队介绍活泼起来 咩哈哈~
